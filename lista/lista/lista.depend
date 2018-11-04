@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521711402 source:/home/jonathan/Documentos/Codigo/c/Projetos code blocks/lista/lista/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1521710158 /home/jonathan/Documentos/Codigo/c/Projetos code blocks/lista/lista/lista.h
+	<stdlib.h>
+
